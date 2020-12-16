@@ -1,2 +1,3 @@
-## Welcome to my Responsive React Website
-### This Website was built with Styled-Component and React Router.
+## Responsive React Website
+### This is a Responsive React Website of a local Bank. 
+### This website was built with React.js, React-Router and Styled-Component.
